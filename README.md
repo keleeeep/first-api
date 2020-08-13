@@ -6,9 +6,9 @@ Simple API with CRUD feature
 1. MySQL
 2. Golang
 3. External packages :
-...* SQL driver for mysql
-...* Gin
-...* Gorm
+..* SQL driver for mysql
+..* Gin
+..* Gorm
 
 ## Prerequisites
 Enter the following command to install sql driver for mysql, gin and gorm in the project.
@@ -25,7 +25,7 @@ go run main.go
 
 
 ## Database Schema
-### User
+##### User
 * name
 * email
 * phone
